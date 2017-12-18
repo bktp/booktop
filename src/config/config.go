@@ -7,7 +7,7 @@ import (
 
 const (
 	dbUser     = "buktp"
-	dbPassword = "bktp8484"
+	dbPassword = "password"
 	dbName     = "booktop"
 )
 
