@@ -4,15 +4,15 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/bktp/booktop/server/src/search"
+	"github.com/bktp/booktop/src/search"
 
 	"github.com/gorilla/handlers"
 	"github.com/gorilla/mux"
 
-	"github.com/bktp/booktop/server/src/books"
-	"github.com/bktp/booktop/server/src/categories"
-	"github.com/bktp/booktop/server/src/pages"
-	"github.com/bktp/booktop/server/src/users"
+	"github.com/bktp/booktop/src/books"
+	"github.com/bktp/booktop/src/categories"
+	"github.com/bktp/booktop/src/pages"
+	"github.com/bktp/booktop/src/users"
 )
 
 func main() {

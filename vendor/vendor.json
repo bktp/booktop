@@ -3,6 +3,30 @@
 	"ignore": "test",
 	"package": [
 		{
+			"path": "github.com/bktp/booktop/server/src/books",
+			"revision": ""
+		},
+		{
+			"path": "github.com/bktp/booktop/server/src/categories",
+			"revision": ""
+		},
+		{
+			"path": "github.com/bktp/booktop/server/src/config",
+			"revision": ""
+		},
+		{
+			"path": "github.com/bktp/booktop/server/src/pages",
+			"revision": ""
+		},
+		{
+			"path": "github.com/bktp/booktop/server/src/search",
+			"revision": ""
+		},
+		{
+			"path": "github.com/bktp/booktop/server/src/users",
+			"revision": ""
+		},
+		{
 			"checksumSHA1": "g/V4qrXjUGG9B+e3hB+4NAYJ5Gs=",
 			"path": "github.com/gorilla/context",
 			"revision": "08b5f424b9271eedf6f9f0ce86cb9396ed337a42",
@@ -23,15 +47,15 @@
 		{
 			"checksumSHA1": "IfZcD4U1dtllJKlPNeD2aU4Jn98=",
 			"path": "github.com/lib/pq",
-			"revision": "8c6ee72f3e6bcb1542298dd5f76cb74af9742cec",
-			"revisionTime": "2017-11-13T04:44:40Z"
+			"revision": "83612a56d3dd153a94a629cd64925371c9adad78",
+			"revisionTime": "2017-11-26T05:04:59Z"
 		},
 		{
 			"checksumSHA1": "AU3fA8Sm33Vj9PBoRPSeYfxLRuE=",
 			"path": "github.com/lib/pq/oid",
-			"revision": "8c6ee72f3e6bcb1542298dd5f76cb74af9742cec",
-			"revisionTime": "2017-11-13T04:44:40Z"
+			"revision": "83612a56d3dd153a94a629cd64925371c9adad78",
+			"revisionTime": "2017-11-26T05:04:59Z"
 		}
 	],
-	"rootPath": "github.com/bktp/booktop/server"
+	"rootPath": "github.com/bktp/booktop"
 }

@@ -11,7 +11,7 @@ import (
 	"github.com/gorilla/mux"
 	_ "github.com/lib/pq"
 
-	"github.com/bktp/booktop/server/src/config"
+	"github.com/bktp/booktop/src/config"
 )
 
 type Page struct {

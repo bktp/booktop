@@ -9,7 +9,7 @@ import (
 
 	"github.com/gorilla/mux"
 
-	"github.com/bktp/booktop/server/src/config"
+	"github.com/bktp/booktop/src/config"
 
 	_ "github.com/lib/pq"
 )

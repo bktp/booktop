@@ -5,8 +5,8 @@ import (
 	"encoding/json"
 	"log"
 
-	"github.com/bktp/booktop/server/src/books"
-	"github.com/bktp/booktop/server/src/config"
+	"github.com/bktp/booktop/src/books"
+	"github.com/bktp/booktop/src/config"
 
 	"net/http"
 )

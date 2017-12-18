@@ -10,8 +10,8 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/bktp/booktop/server/src/books"
-	"github.com/bktp/booktop/server/src/config"
+	"github.com/bktp/booktop/src/books"
+	"github.com/bktp/booktop/src/config"
 
 	"github.com/gorilla/mux"
 )
